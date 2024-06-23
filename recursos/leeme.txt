@@ -1,0 +1,7 @@
+si cambias la direccion del ejecutable
+crea un .txt con el nombre de "direccion.txt" 
+con la nueva direccion
+ y sustitulle los "\" por "\\" en la dirección
+sin poner enter al final
+
+para que se reproduscan los sonidos.
